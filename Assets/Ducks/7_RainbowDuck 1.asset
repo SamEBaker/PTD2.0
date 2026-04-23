@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 068ba13ffb9c1e14995865f5e441b9ba, type: 3}
+  m_Name: 7_RainbowDuck 1
+  m_EditorClassIdentifier: 
+  scoreNeeded: 1000000
+  scoreIncrease: 50
+  Duckanim: duck8
+  staticSprite: {fileID: -1451155827, guid: 4fcaf892b885b854b97bb0268ffb1df7, type: 3}
